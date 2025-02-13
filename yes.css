@@ -1,0 +1,38 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: pink;
+    font-family: 'Arial', sans-serif;
+}
+
+.container {
+    text-align: center;
+}
+
+.header_text {
+    font-size: 3em;
+    color: red;
+    padding-bottom: 0px;
+
+}
+
+.gif_container img {
+    width: 100%; 
+    max-width: 500px; 
+    height: auto; 
+}
+
+a {
+    font-size: 15px;
+    margin-top: 0px;
+    background-color: pink;
+    text-decoration: none;
+}
+
+button {
+    background-color: pink;
+    border: solid pink 0px;
+}
